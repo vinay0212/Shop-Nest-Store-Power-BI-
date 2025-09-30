@@ -1,6 +1,33 @@
-# Shop-Nest-Store-Power-BI-
-This project focuses on building an interactive Power BI dashboard for **ShopNest Store**, a leading e-commerce marketplace in Portugal. The dashboard provides actionable insights into sales performance, customer behavior, delivery timelines, payment preferences, and product ratings. Through visualizations such as category-wise sales, delayed order trends, state-level performance, and seasonal patterns, the report helps stakeholders understand business strengths, identify areas for improvement, and make data-driven decisions to improve revenue and customer satisfaction.
 
-To design this dashboard, I used **Power BI** as the primary tool for data modeling, visualization, and DAX calculations. **Power Query** was used for data cleaning and transformation, ensuring proper data types and relationships. The dataset, provided in **Excel/CSV format**, was modeled into fact and dimension tables for seamless analysis. I also used **PowerPoint** to create a custom background design saved as an SVG, which was incorporated into the dashboard for a more professional look. The visuals include bar charts, line graphs, pie charts, and maps, all enriched with slicers and filters for interactive exploration.
+### 🛍️ **Overview**
 
-From the analysis, several valuable insights were derived: São Paulo emerged as the highest-performing state with over 5 million in sales, while Roraima had the lowest sales at 7 thousand. Seasonal and yearly patterns showed strong growth between 2016–2018, with 2018 marking the peak in both sales and revenue. The project highlights how effective data visualization can drive better strategic planning, optimize operations, and enhance customer experience for an e-commerce business like ShopNest Store.
+The **ShopNest Store Power BI Dashboard** project focuses on creating an interactive and visually compelling analytics report for **ShopNest Store**, a prominent e-commerce marketplace in Portugal 🇵🇹. The dashboard delivers actionable insights into key business areas such as **sales performance**, **customer behavior**, **delivery timelines**, **payment preferences**, and **product ratings**. With visuals like **category-wise sales**, **state-level performance**, **delayed orders**, and **seasonal trends**, stakeholders can better understand strengths, uncover weaknesses, and make **data-driven decisions** to boost revenue and customer satisfaction 📈.
+
+---
+
+### 💡 **Insights**
+
+* 🏆 **São Paulo** led in sales, generating over **€5 million**, while **Roraima** had the lowest with just **€7,000**.
+* 📅 Sales trends revealed **strong seasonal growth** from **2016 to 2018**, with **2018** being the peak year in terms of both sales and revenue.
+* 🚚 **Delivery delays** and **customer behavior** patterns were identified to help optimize operations and improve user experience.
+* 🧭 State-wise performance visualizations helped pinpoint regions needing strategic attention or investment.
+
+---
+
+### 🛠️ **Tools Used**
+
+* **Power BI** – For data modeling, DAX calculations, and building interactive visualizations 📊
+* **Power Query** – For data cleaning, transformation, and managing relationships 🔄
+* **Excel/CSV Files** – Used as the primary dataset source 📁
+* **PowerPoint** – Designed a custom **SVG background** for a professional dashboard layout 🎨
+* Visuals include **bar charts**, **line graphs**, **pie charts**, **maps**, along with **slicers and filters** for interactivity.
+
+---
+
+### ✅ **Conclusion**
+
+This project showcases the power of **effective data storytelling** through visualization. By transforming raw e-commerce data into meaningful insights, the **ShopNest Store Dashboard** enables stakeholders to make smarter, faster, and more strategic decisions. It not only supports business growth but also enhances the overall **customer experience** and **operational efficiency** 🚀📊.
+
+---
+
+Let me know if you'd like a version tailored for a resume, portfolio, or LinkedIn post!
